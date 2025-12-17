@@ -1,2 +1,2 @@
 # Data_Structures
-Major Data_Structures implementation in various language
+Major Data_Structures implementation in various programming languages 
